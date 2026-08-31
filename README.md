@@ -18,7 +18,7 @@ Official Objective-C client for the [SimpleBilly API](https://simplebilly.com/ap
 
 ## Installation
 
-The package is published to the Objective-C package registry (and to [GitHub Packages](https://github.com/orgs/simplebilly/packages) — free for public packages).
+The package is published to the Objective-C package registry (and to [GitHub Packages](https://github.com/orgs/simplebilly/packages)).
 See the [Releases](https://github.com/simplebilly/simplebilly-objc/releases) page for the list
 of versions and registry coordinates.
 
